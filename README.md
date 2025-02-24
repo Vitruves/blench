@@ -1,3 +1,6 @@
+
+![result-MTtQpJBAg3](https://github.com/user-attachments/assets/3392f0f2-39b1-477f-873e-90552714eb54)
+
 # Blench
 
 **Blench** is a multi-language benchmarking suite that automates the build, evaluation, and reporting of benchmarks written in various programming languages, including Rust, C, C++, Java, Python, Go, OCaml, Zig, Fortran, and Julia. Distributed as a single Bash script, Blench simplifies compiling and running benchmarks with configurable timeouts, core counts, and run numbers.
